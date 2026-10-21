@@ -6,7 +6,7 @@ uma empresa de e-commerce.
 A empresa deseja compreender melhor o desempenho de seu portfólio e a
 percepção dos consumidores, utilizando informações sobre:
 
-<a href = "https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset">
+<a href = "https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset"> Base de Dados</a>
 
 <ul>
 <li>Produtos E Categorias;</li>
